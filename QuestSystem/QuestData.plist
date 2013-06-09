@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>questId</key>
+		<string>0</string>
+		<key>description</key>
+		<string>Push VC to completed quest.</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>questId</key>
+		<string>1</string>
+		<key>description</key>
+		<string>Clicked 10 times.</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>numRequired</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>questId</key>
+		<string>2</string>
+		<key>description</key>
+		<string>Type &quot;complete&quot; to complete quest.</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>text</key>
+		<string>complete</string>
+	</dict>
+</array>
+</plist>
